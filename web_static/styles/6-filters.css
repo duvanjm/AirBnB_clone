@@ -47,8 +47,10 @@
 
 .locations:hover .popover {
     visibility: visible;
+    display: block;
 }
 
 .amenities:hover .popover {
     visibility: visible;
+    display: block;
 }
